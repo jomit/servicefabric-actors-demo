@@ -1,2 +1,1 @@
-# servicefabric-actors-demo
-Demos for Service Fabric Actors
+# Sample code to demo Service Fabric Actors
